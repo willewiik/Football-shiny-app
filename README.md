@@ -9,3 +9,5 @@ The data was collected from fbref and understat and was then stored in a SQL-dat
 
 
 ![gif](https://x.com/i/status/1747237464106836294)
+
+![gif](./screenshot_player.JFIF)
