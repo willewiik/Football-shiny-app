@@ -8,6 +8,6 @@ Additionally, the app generates diagrams that allowed me to explore trends and p
 The data was collected from fbref and understat and was then stored in a SQL-database.
 
 
-<img src="https://media.giphy.com/media/70x8vtFnVnQcdtmj4D/giphy.gif" alt="GIF" width="600" height="315" />
+<img src="https://media.giphy.com/media/70x8vtFnVnQcdtmj4D/giphy.gif" alt="GIF" width="1000" height="600" />
 
 ![player_hakan](./screenshot_player.png)
