@@ -6,3 +6,6 @@ The app includes models for predicting various metrics, such as the number of sh
 Additionally, the app generates diagrams that allowed me to explore trends and patterns in the data.
 
 The data was collected from fbref and understat and was then stored in a SQL-database.
+
+
+![gif](https://x.com/i/status/1747237464106836294)
